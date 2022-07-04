@@ -4,6 +4,6 @@ some thing I need in my next project .
 
 nothing special 
 topics:
-viewBinding
-ListAdpater
+viewBinding/
+ListAdpater/
 coil library 
